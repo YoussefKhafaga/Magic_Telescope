@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MagicTelescope.iml" filepath="$PROJECT_DIR$/.idea/MagicTelescope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Magic_Telescope.iml" filepath="$PROJECT_DIR$/.idea/Magic_Telescope.iml" />
     </modules>
   </component>
 </project>
